@@ -1,0 +1,13 @@
+body{
+    background-color:lightgreen;
+}
+
+h1{
+    font-family:'Brush Script MT','cursive';
+    background-color:green;
+    color:black;
+}
+
+li{
+    font-family:'Courier New','monospace';
+}
